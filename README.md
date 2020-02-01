@@ -6,7 +6,8 @@
 4. Copie o código
 5. Abra o Tampermonkey e clique em **Add Script** (botão com ícone de :heavy_plus_sign:)
 6. Copie o código na janela de script e clique em save.
-7. Aproveite!
+7. Acesse qualquer sala.
+8. Aproveite!
 
 # Como usar
 
