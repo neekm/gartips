@@ -2,7 +2,7 @@
 
 1. Instale a extensão Tampermonkey para o google chrome (ou similares - ps: não testado)
 2. Selecione o script nesse repositório.
-3. Clique em ver o arquivo e depois clique no botão **RAW** para ver o código
+3. Clique em ver o arquivo `gartips.user.js` e depois clique no botão **RAW** para ver o código
 4. Copie o código
 5. Abra o Tampermonkey e clique em **Add Script** (botão com ícone de :heavy_plus_sign:)
 6. Copie o código na janela de script e clique em save.
