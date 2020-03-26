@@ -23,7 +23,7 @@
 
 #### Campo [Palavra Chave]
 
-> Serve para consultar palavras você mesmo. Deixe este campo em branco para buscar palavras da DICA.
+> Serve para consultar palavras você mesmo. Deixe este campo em branco para buscar letras da DICA.
 
 #### Botão [Possíveis Respostas]
 
@@ -32,6 +32,10 @@
 #### Botão [Limpar]
 
 > Apaga os resultados mostrados  
+
+#### Nomes [Resultados]
+
+> Clique em qualquer nome e ele será preenchido no campo de resposta
 
 # Contribua :smile:
 
