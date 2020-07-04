@@ -3,7 +3,7 @@
 // @grant  		 none
 // @name         Gartips
 // @namespace    gartips
-// @version      1.0.1
+// @version      1.0.2
 // @description  Mostra possíveis respostas quando tiver Dicas na tela - Desenho Animado, GoT, Animais, Alimentos, Objetos, Verbos
 // @author       Neek Mikaelson
 // @match        https://gartic.com.br/*
